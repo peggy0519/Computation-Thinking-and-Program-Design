@@ -1,0 +1,81 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Untitled1.ipynb",
+      "provenance": [],
+      "authorship_tag": "ABX9TyNPRcznuWUNmJwHLZlqODL0",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/peggy0519/Computation-Thinking-and-Program-Design/blob/master/think_week11_A108060010%E9%AB%98%E4%BD%A9%E8%B3%A2\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "qR-GpNonh-L5",
+        "colab_type": "code",
+        "colab": {}
+      },
+      "source": [
+        ""
+      ],
+      "execution_count": 0,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "GOU0_Me_h_e3",
+        "colab_type": "text"
+      },
+      "source": [
+        "你好！主人！很高興為你服務\n",
+        "客人：我想和主廚談話？\n",
+        "主人沒有這項功能喔！可以打電話到本公司詢問，會有櫃檯人員為你服務\n",
+        "那請問需要什麼餐點呢？\n",
+        "#鮪魚壽司定貫\n",
+        "#鮭魚壽司定貫\n",
+        "#菲力牛排套餐\n",
+        "#銀雪香煎套餐\n",
+        "#黑松板豬套餐\n",
+        "#嫩煎雞排套餐\n",
+        "#什錦五蔬套餐\n",
+        "#嫩烤羊腿套餐\n",
+        "#鹽烤秋刀魚套餐\n",
+        "#沙朗牛排套餐\n",
+        "#以上套餐均附前菜（沙拉或餐包或醃漬梅）、湯（洋蔥湯或蘑菇濃湯）、甜品（紅豆麻糬或紫泥芋球）\n",
+        "客人：鮭魚壽司定貫\n",
+        "不好意思喔！主人鮭魚還在海裡游抓不到\n",
+        "我幫你推薦您點菲力牛排套餐！客人說：好～喔😯！\n",
+        "我看你氣色不好，可以幫你前菜點生菜沙拉好嗎？客人：好的\n",
+        "那主人你需要什麼醬呢？客人：凱薩醬\n",
+        "啊醬沒了！主人沒關係吃原味就好\n",
+        "主人菲力要幾分熟呢？客人：五分熟\n",
+        "好喔主人！那湯品有洋蔥湯和蘑菇濃湯要哪一種呢？客人：洋蔥湯\n",
+        "不好意思洋蔥剩一點，我幫你加洋蔥圈，味道也有洋蔥味，差不多啦！痾.....好喔！\n",
+        "那最後甜點有紅豆麻糬跟紫泥芋球，請問要哪款呢？客人：紫泥芋球\n",
+        "好的！紫泥芋球要儘快吃，不然會融化，就不好吃了！客人：瞭解\n",
+        "期待您下次的光臨！您的光顧，是我們的感動，啾咪！（客人：真的會感動，因爲我不用再來了）\n",
+        "\n",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    }
+  ]
+}
