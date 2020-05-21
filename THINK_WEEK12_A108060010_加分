@@ -5,6 +5,7 @@
     "colab": {
       "name": "Untitled2.ipynb",
       "provenance": [],
+      "collapsed_sections": [],
       "authorship_tag": "ABX9TyNHyoe4IgiTWGyhKgmfDzox",
       "include_colab_link": true
     },
@@ -29,11 +30,11 @@
       "metadata": {
         "id": "XbOIfXcOzTxB",
         "colab_type": "code",
+        "outputId": "238ab706-0957-4d9c-c89f-3143ee08c992",
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 72
-        },
-        "outputId": "238ab706-0957-4d9c-c89f-3143ee08c992"
+        }
       },
       "source": [
         "hungry=input(\"現在餓嗎?YES or NO\")\n",
@@ -55,7 +56,7 @@
         "if bars>10:\n",
         "  print(\"店員說:今天很餓!\")"
       ],
-      "execution_count": 1,
+      "execution_count": 0,
       "outputs": [
         {
           "output_type": "stream",
